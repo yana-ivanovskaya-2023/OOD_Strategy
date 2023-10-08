@@ -22,6 +22,9 @@ android {
         jvmTarget = '1.8'
     }
     namespace 'com.yana.ood_strategy'
+    viewBinding {
+        enabled true
+    }
 }
 
 dependencies {

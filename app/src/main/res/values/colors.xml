@@ -1,10 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="seed">#4d6706</color>
+
+    <color name="primary">#4D6706</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="primaryContainer">#DCE677</color>
+    <color name="onPrimaryContainer">#151F00</color>
+
+    <color name="secondary">#5A6147</color>
+    <color name="onSecondary">#FFFFFF</color>
+    <color name="secondaryContainer">#DEE6C5</color>
+    <color name="onSecondaryContainer">#181E09</color>
+
+    <color name="tertiary">#396660</color>
+    <color name="onTertiary">#FFFFFF</color>
+    <color name="tertiaryContainer">#BCECE3</color>
+    <color name="onTertiaryContainer">#00201C</color>
+
+    <color name="error">#BA1A1A</color>
+    <color name="errorContainer">#FFDAD6</color>
+    <color name="onError">#FFFFFF</color>
+    <color name="onErrorContainer">#410002</color>
+
+    <color name="background">#FEFCF4</color>
+    <color name="onBackground">#1B1C17</color>
+
+    <color name="surface">#FEFCF4</color>
+    <color name="onSurface">#1B1C17</color>
+
+    <color name="surfaceVariant">#E2E4D4</color>
+    <color name="onSurfaceVariant">#45483C</color>
+
+    <color name="outline">#76786B</color>
+
+    <color name="inverseOnSurface">#F2F1E9</color>
+    <color name="inverseSurface">#30312C</color>
+    <color name="inversePrimary">#C8D26B</color>
+
+    <color name="shadow">#000000</color>
+    <color name="surfaceTint">#4D6706</color>
+    <color name="outlineVariant">#C6C8B8</color>
+    <color name="scrim">#000000</color>
+
+    <color name="Task_Priority_ExtraHigh_Background">#33E64A19</color>
+    <color name="Task_Priority_ExtraHigh_Accent">#E64A19</color>
+
+    <color name="Task_Priority_Deadline_Background">#33E57373</color>
+    <color name="Task_Priority_Deadline_Accent">#E57373</color>
+
+    <color name="Task_Priority_High_Background">#33FFA000</color>
+    <color name="Task_Priority_High_Accent">#FFA000</color>
+
+    <color name="Task_Priority_Medium_Background">#33FDD835</color>
+    <color name="Task_Priority_Medium_Accent">#FDD835</color>
+
+    <color name="Task_Priority_Low_Background">#1A4D6706</color>
+    <color name="Task_Priority_Low_Accent">#CC4D6706</color>
+
+    <color name="Task_Priority_None_Background">#1A5A6147</color>
+    <color name="Task_Priority_None_Accent">#CC5A6147</color>
+
 </resources>
